@@ -9,5 +9,8 @@ package Lists;
  * @author Student
  */
 public interface List {
-    
+ public T(Object id);
+
+
+public showAll();   
 }
